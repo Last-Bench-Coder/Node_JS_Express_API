@@ -13,9 +13,9 @@ First i will try to the create api using static data
 1. Create the json file(i.e. users.json)
 2. Add the below content to that
 
-const data=[	
-{'empid':'1','name':'nandan', 'departpent':'testing','salary':'1500000'},
-{'empid':'2','name':'chakrapani', 'departpent':'tech lead','salary':'1800000'}
+[	
+	{'empid':'1','name':'nandan', 'departpent':'testing','salary':'1500000'},
+	{'empid':'2','name':'chakrapani', 'departpent':'tech lead','salary':'1800000'}
 ]
 
 4. 
